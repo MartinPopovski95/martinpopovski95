@@ -60,7 +60,6 @@ I'm a Junior Full Stack Web Developer passionate about building clean, functiona
 
 | Project | Description | Stack |
 |---|---|---|
-| [PizzaApp](https://github.com/MartinPopovski95/PizzaApp) | Full-stack pizza ordering application with authentication | Angular · .NET 8 · PostgreSQL · JWT |
 | [sv-georgij](https://github.com/MartinPopovski95/sv-georgij) | REST API with Angular client for a church organization | .NET 10 · SQL Server · Angular |
 | [mrallround](https://github.com/MartinPopovski95/mrallround-facility-management-project) | Production-ready facility management frontend | Vanilla JavaScript · SCSS |
 
