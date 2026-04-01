@@ -16,8 +16,8 @@ Angular · TypeScript · C# · .NET 8/10 · PostgreSQL · SQL Server · JWT · S
 
 ### What I've built
 
-- **[sv-georgij](https://github.com/MartinPopovski95/sv-georgij)** — A .NET 10 REST API with a full Angular frontend for a church organization. Designed the database schema, built the API architecture, and handled client-side routing entirely myself. Full JWT authentication included.
-- **[mrallround](https://github.com/MartinPopovski95/mrallround-facility-management-project)** — A production-ready facility management frontend in vanilla JavaScript. No frameworks — a deliberate choice to prove the fundamentals. Clean JS and CSS, nothing else.
+- **[sv-georgij](https://github.com/MartinPopovski95/sv-georgij)** - A .NET 10 REST API with a full Angular frontend for a church organization. Designed the database schema, built the API architecture, and handled client-side routing entirely myself. Full JWT authentication included.
+- **[mrallround](https://github.com/MartinPopovski95/mrallround-facility-management-project)** - A production-ready facility management frontend in vanilla JavaScript. No frameworks — a deliberate choice to prove the fundamentals. Clean JS and CSS, nothing else.
 
 ---
 
